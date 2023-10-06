@@ -5,4 +5,4 @@
 
  Funciona con energía solar.
 
- ![Placa pyTrainer versión 3](/images/Monitor1.jpg)
+ ![Placa pyTrainer versión 3](/images/monitor1.jpg)
